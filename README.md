@@ -1,5 +1,5 @@
 ### Kolten Bramall
-       Excited to join the Full-Stack developer world
+       Excited to join the Full-Stack developer world:smile:
 
 <!--
 **Kobramall/Kobramall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
