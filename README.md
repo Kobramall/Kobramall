@@ -14,7 +14,7 @@
 - bowling
 
 Connect with me:
-Email: kbramall1@gmail.com,
+Email: kbramall1@gmail.com
 Linkedin: www.linkedin.com/in/kolten-bramall-b3aa24235
 
 Languages and Tools:
