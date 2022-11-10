@@ -2,7 +2,7 @@
        Excited to join the Full-Stack developer world:smile:
 
 
-- I'm currently learning Javascript and React
+- I'm currently learning tailwind
 - Job searching for a job in web development
 - I'm from Utah
 
